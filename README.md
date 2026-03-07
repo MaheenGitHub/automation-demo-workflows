@@ -3,7 +3,6 @@
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/MaheenGitHub/automation-demo-workflows?style=flat-square)](https://github.com/your-username/n8n-workflow-showcase)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/MaheenGitHub/automation-demo-workflows?style=flat-square)](https://github.com/your-username/n8n-workflow-showcase)
 [![License](https://img.shields.io/github/license/MaheenGitHub/automation-demo-workflows?style=flat-square)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/MaheenGitHub/automation-demo-workflows?style=flat-square)](https://github.com/your-username/n8n-workflow-showcase/issues)
 
 Welcome to my **n8n Automation Workflows Showcase** — a curated collection of automation workflows demonstrating my skills in web scraping, workflow automation, data extraction, and productivity solutions.
 
@@ -54,7 +53,7 @@ This workflow automatically extracts **useful links from any webpage**, filters 
 
 ---
 
-## ⚙️ How to Use
+### ⚙️ How to Use
 
 1. View **workflow screenshots** and **demo GIFs**.
 2. Download **sample CSV** files to see output examples.
@@ -62,7 +61,7 @@ This workflow automatically extracts **useful links from any webpage**, filters 
 
 ---
 
-## 💡 Key Takeaways
+### 💡 Key Takeaways
 
 * Automates repetitive tasks to **save time & improve efficiency**
 * Generates structured, usable outputs from raw data
@@ -71,25 +70,23 @@ This workflow automatically extracts **useful links from any webpage**, filters 
 
 ---
 
-## Contribution
+### Contribution
 
-If this repository helps you, feel free to **star ⭐ it**. Suggestions, corrections, and improvements are welcome.
+If this repository helps you, feel free to **star ⭐ it**. 
 
 
 
-## Author
+### Author
 **Maheen Fatima**  
 - [LinkedIn](https://www.linkedin.com/in/maheenfatimaa)
 - [View my Upwork Profile](https://www.upwork.com/freelancers/~017a150168182cf524?mp_source=share)
 
 
 
-## License
+### License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🏷️ Tags
 
-`#Automation #n8n #WebScraping #WorkflowAutomation #DataAutomation #Portfolio`
