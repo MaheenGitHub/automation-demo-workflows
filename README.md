@@ -1,8 +1,10 @@
 # 🚀 n8n Automation Workflows Showcase
 
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/MaheenGitHub/automation-demo-workflows?style=flat-square)](https://github.com/your-username/n8n-workflow-showcase)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/MaheenGitHub/automation-demo-workflows?style=flat-square)](https://github.com/your-username/n8n-workflow-showcase)
+[![n8n](https://img.shields.io/badge/n8n-Automation-blue?style=flat-square)](https://n8n.io/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSV](https://img.shields.io/badge/CSV-Data-success?style=flat-square)](https://en.wikipedia.org/wiki/Comma-separated_values)
 [![License](https://img.shields.io/github/license/MaheenGitHub/automation-demo-workflows?style=flat-square)](LICENSE)
+
 
 Welcome to my **n8n Automation Workflows Showcase** — a curated collection of automation workflows demonstrating my skills in web scraping, workflow automation, data extraction, and productivity solutions.
 
