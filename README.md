@@ -10,7 +10,7 @@ Welcome to my **n8n Automation Workflows Showcase** — a curated collection of 
 
 ---
 
-## 🌟 Current Workflows
+## Current Workflows
 
 ### 1️⃣ Web Scraping: Link Extractor
 
