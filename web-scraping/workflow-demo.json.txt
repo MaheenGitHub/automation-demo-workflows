@@ -1,0 +1,12 @@
+{
+  "nodes": [
+    {
+      "name": "Manual Trigger: Demo",
+      "type": "n8n-nodes-base.manualTrigger"
+    },
+    {
+      "name": "HTTP Request: Demo",
+      "type": "n8n-nodes-base.httpRequest"
+    }
+  ]
+}
