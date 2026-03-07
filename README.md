@@ -1,53 +1,73 @@
 # 🚀 n8n Automation Workflows Showcase
 
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/n8n-workflow-showcase?style=flat-square)](https://github.com/your-username/n8n-workflow-showcase)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/your-username/n8n-workflow-showcase?style=flat-square)](https://github.com/your-username/n8n-workflow-showcase)
-[![License](https://img.shields.io/github/license/your-username/n8n-workflow-showcase?style=flat-square)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/your-username/n8n-workflow-showcase?style=flat-square)](https://github.com/your-username/n8n-workflow-showcase/issues)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/MaheenGitHub/automation-demo-workflows?style=flat-square)](https://github.com/your-username/n8n-workflow-showcase)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/MaheenGitHub/automation-demo-workflows?style=flat-square)](https://github.com/your-username/n8n-workflow-showcase)
+[![License](https://img.shields.io/github/license/MaheenGitHub/automation-demo-workflows?style=flat-square)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/MaheenGitHub/automation-demo-workflows?style=flat-square)](https://github.com/your-username/n8n-workflow-showcase/issues)
 
-A curated collection of **Production-Grade Automation Workflows** built using **n8n**. This repository demonstrates my expertise in transforming raw, unstructured web data into actionable business assets.
+Welcome to my **n8n Automation Workflows Showcase** — a curated collection of automation workflows demonstrating my skills in web scraping, workflow automation, data extraction, and productivity solutions.
 
-## 🛠️ Skills Highlighted
-- **Data Engineering:** Web scraping, data cleaning, and structured CSV generation.
-- **Automation Logic:** Custom JavaScript filtering and regex-based extraction.
-- **Integration:** HTTP Request handling and multi-node workflow architecture.
-- **Efficiency:** Transforming 20+ minute manual tasks into <1 second automated processes.
+> ⚠️ **Note:** This is a public demo version. Full workflows are private and available upon request.
 
 ---
 
-## 🌟 Featured Workflows
+## 🌟 Current Workflows
 
-### 1️⃣ Intelligent Web Scraping: Link Extractor & Cleaner
-This workflow solves the "URL Junkyard" problem by extracting only high-value links from complex HTML structures.
+### 1️⃣ Web Scraping: Link Extractor
 
-**How it works:**
-1. **Fetch:** Retrieves HTML content via dynamic HTTP requests.
-2. **Extract:** Uses JavaScript to identify all `href` attributes.
-3. **Filter:** Automatically blacklists trackers, font APIs, and social media pixels.
-4. **Heal:** Converts "Relative Links" (e.g., `/portal`) into full, clickable URLs.
-5. **Export:** Generates a clean, deduplicated CSV file ready for Google Sheets/Excel.
+This workflow automatically extracts **useful links from any webpage**, filters out social media links, JavaScript placeholders, and duplicate URLs, and exports a **clean CSV output**.
 
-**📊 Demo Execution:** ![Workflow Screenshot](web-scraping/workflow-screenshot.png)
+**Demo Screenshot:**
+![Workflow Screenshot](web-scraping/workflow-screenshot.png)
 
-**📄 Sample Output:** [Download Sample CSV](web-scraping/sample-output.csv)
+**Sample Output CSV:**
+[Download CSV](web-scraping/sample-output.csv)
+
+**Partial Demo JSON:**
+
+```json
+{
+  "nodes": [
+    {
+      "name": "Manual Trigger: Demo",
+      "type": "n8n-nodes-base.manualTrigger"
+    },
+    {
+      "name": "HTTP Request: Demo",
+      "type": "n8n-nodes-base.httpRequest"
+    }
+  ]
+}
+```
+
+**Skills Highlighted:** `n8n`, `JavaScript`, `HTTP Requests`, `Data Automation`
 
 ---
 
-### 2️⃣ Upcoming Automations (In Development)
-- [ ] **Lead Gen Engine:** Automated directory scraping and enrichment.
-- [ ] **OSINT Toolkit:** Automated security resource gathering from government portals.
-- [ ] **Data Pipeline:** Automated cleaning and transformation for ML datasets (HAR).
+### 2️⃣ Future Workflows
+
+* Lead generation from business directories
+* Data cleaning & transformation pipelines
+* Government portal automation
+
+> Each new workflow will be added to this repo in the same structured format.
 
 ---
 
-## ⚙️ Usage & Collaboration
-> ⚠️ **Note:** For security and privacy, full JSON blueprints for certain workflows are kept private. 
+## ⚙️ How to Use
 
-- **Review:** Check out the screenshots and sample outputs to verify data quality.
-- **Request:** If you are interested in a full `.json` implementation for a specific use case, feel free to reach out.
+1. View **workflow screenshots** and **demo GIFs**.
+2. Download **sample CSV** files to see output examples.
+3. Request full workflow JSON files if needed for collaboration or demonstration.
 
-## 💡 Key Takeaway
-"Automation isn't just about saving time; it's about **Data Integrity**. By removing the human error from repetitive tasks, we ensure that the data driving our decisions is clean and reliable."
+---
+
+## 💡 Key Takeaways
+
+* Automates repetitive tasks to **save time & improve efficiency**
+* Generates structured, usable outputs from raw data
+* Demonstrates professional workflow design & automation expertise
+* Portfolio-ready showcase for freelance clients and recruiters
 
 ---
 
@@ -67,3 +87,9 @@ If this repository helps you, feel free to **star ⭐ it**. Suggestions, correct
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+## 🏷️ Tags
+
+`#Automation #n8n #WebScraping #WorkflowAutomation #DataAutomation #Portfolio`
