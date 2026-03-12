@@ -21,8 +21,7 @@ This workflow automatically extracts **useful links from any webpage**, filters 
 **Demo Screenshot:**
 ![Workflow Screenshot](web-scraping/workflow-screenshot.png)
 
-**Sample Output CSV:**
-[Download CSV](web-scraping/sample-output.csv)
+**Sample Output CSV:** [Download CSV](web-scraping/sample-output.csv.txt)
 
 **Partial Demo JSON:**
 
@@ -52,8 +51,7 @@ It performs **scheduled checks**, detects newly published links, and sends a not
 **Demo Screenshot:**  
 ![Workflow Screenshot](LahoreBoard-Website-Monitor/workflow_screenshot.png)
 
-**Sample Output:**  
-[Download Image](LahoreBoard-Website-Monitor/sample_output.png)
+**Sample Output:**   [Download Image](LahoreBoard-Website-Monitor/sample_output.png)
 
 **Partial Demo JSON:**
 
