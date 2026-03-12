@@ -50,10 +50,10 @@ This workflow automatically monitors the **BISE Lahore website** for new updates
 It performs **scheduled checks**, detects newly published links, and sends a notification when new updates appear.
 
 **Demo Screenshot:**  
-![Workflow Screenshot](LahoreBoard_Website_Monitor/workflow_screenshot.png)
+![Workflow Screenshot](LahoreBoard-Website-Monitor/workflow_screenshot.png)
 
-**Sample Output CSV:**  
-[Download Image](LahoreBoard_Website_Monitor/sample_output.png)
+**Sample Output:**  
+[Download Image](LahoreBoard-Website-Monitor/sample_output.png)
 
 **Partial Demo JSON:**
 
