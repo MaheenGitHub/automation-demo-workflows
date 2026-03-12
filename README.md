@@ -1,4 +1,4 @@
-# 🚀 n8n Automation Workflows Showcase
+#  n8n Automation Workflows Showcase
 
 [![n8n](https://img.shields.io/badge/n8n-Automation-blue?style=flat-square)](https://n8n.io/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -12,7 +12,7 @@ Welcome to my **n8n Automation Workflows Showcase** — a curated collection of 
 
 ---
 
-# 📑 Table of Contents
+## 📑 Table of Contents
 
 - [Web Scraping: Link Extractor](#1️⃣-web-scraping-link-extractor)
 - [Website Monitoring: Lahore Board Update Monitor](#2️⃣-website-monitoring-lahore-board-update-monitor)
