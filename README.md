@@ -44,8 +44,48 @@ This workflow automatically extracts **useful links from any webpage**, filters 
 **Skills Highlighted:** `n8n`, `JavaScript`, `HTTP Requests`, `Data Automation`
 
 ---
+### 2️⃣ Website Monitoring: Lahore Board Update Monitor
 
-### 2️⃣ Future Workflows
+This workflow automatically monitors the **BISE Lahore website** for new updates such as results, date sheets, or exam announcements.  
+It performs **scheduled checks**, detects newly published links, and sends a notification when new updates appear.
+
+**Demo Screenshot:**  
+![Workflow Screenshot](LahoreBoard_Website_Monitor/workflow_screenshot.png)
+
+**Sample Output CSV:**  
+[Download Image](LahoreBoard_Website_Monitor/sample_output.png)
+
+**Partial Demo JSON:**
+
+```json
+
+{
+  "nodes": [
+    {
+      "name": "Schedule Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger"
+    },
+    {
+      "name": "HTTP Request",
+      "type": "n8n-nodes-base.httpRequest"
+    },
+    {
+      "name": "Compare & Extract",
+      "type": "n8n-nodes-base.code"
+    },
+    {
+      "name": "Discord Bot",
+      "type": "n8n-nodes-base.discord"
+    }
+  ]
+}
+```
+
+**Skills Highlighted:** `n8n`, `JavaScript`, `Web Monitoring`, `Automation`, `Change Detection`
+
+---
+
+### 3️⃣ Future Workflows
 
 * Lead generation from business directories
 * Data cleaning & transformation pipelines
@@ -58,7 +98,7 @@ This workflow automatically extracts **useful links from any webpage**, filters 
 ### ⚙️ How to Use
 
 1. View **workflow screenshots** and **demo GIFs**.
-2. Download **sample CSV** files to see output examples.
+2. Download **sample output** files to see output examples.
 3. Request full workflow JSON files if needed for collaboration or demonstration.
 
 ---
@@ -74,7 +114,7 @@ This workflow automatically extracts **useful links from any webpage**, filters 
 
 ### Contribution
 
-If this repository helps you, feel free to **star ⭐ it**. 
+Liked this Repo? **Star ⭐ it**. 
 
 
 
