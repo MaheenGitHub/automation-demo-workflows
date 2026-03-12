@@ -1,0 +1,21 @@
+json
+{
+  "nodes": [
+    {
+      "name": "Schedule Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger"
+    },
+    {
+      "name": "HTTP Request",
+      "type": "n8n-nodes-base.httpRequest"
+    },
+    {
+      "name": "Compare & Extract",
+      "type": "n8n-nodes-base.code"
+    },
+    {
+      "name": "Discord Bot",
+      "type": "n8n-nodes-base.discord"
+    }
+  ]
+}
