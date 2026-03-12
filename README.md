@@ -14,11 +14,12 @@ Welcome to my **n8n Automation Workflows Showcase** — a curated collection of 
 
 ## 📑 Table of Contents
 
-- [Web Scraping: Link Extractor](#1️⃣-web-scraping-link-extractor)
-- [Website Monitoring: Lahore Board Update Monitor](#2️⃣-website-monitoring-lahore-board-update-monitor)
-- [Future Workflows](#3️⃣-future-workflows)
-- [How to Use](#️-how-to-use)
-- [Key Takeaways](#-key-takeaways)
+- [Current Workflows](#current-workflows)
+  - [Web Scraping: Link Extractor](#1️⃣-web-scraping-link-extractor)
+  - [Website Monitoring: Lahore Board Update Monitor](#2️⃣-website-monitoring-lahore-board-update-monitor)
+  - [Future Workflows](#3️⃣-future-workflows)
+- [How to Use](#⚙️-how-to-use)
+- [Key Takeaways](#💡-key-takeaways)
 - [Author](#author)
 - [License](#license)
 
