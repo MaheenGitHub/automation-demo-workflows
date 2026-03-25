@@ -108,7 +108,7 @@ This advanced workflow automates personal branding by fetching trending tech new
 
 
 **How it works:**
-1. **Scheduled Trigger:** Runs automatically on Monday & Thursday at 4:00 PM.
+1. **Scheduled Trigger:** Runs automatically on a pre-set schedule to keep the profile active.
 2. **News Fetching:** Connects to News API for real-time technology trends.
 3. **JS Logic:** Filters articles to ensure high-quality and unique content selection.
 4. **AI Generation:** Google Gemini generates human-like posts with hooks, bullets, and hashtags.
@@ -119,11 +119,8 @@ This advanced workflow automates personal branding by fetching trending tech new
 This type of automation can be used for:
 
 - Personal branding (consistent posting)
-
 - News summarization
-
 - Content marketing automation
-
 - AI-powered social media management
 
 
