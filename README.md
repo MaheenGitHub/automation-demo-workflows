@@ -17,7 +17,7 @@ Welcome to my **n8n Automation Workflows Showcase** — a curated collection of 
 - [Current Workflows](#current-workflows)
   - [Web Scraping: Link Extractor](#1️⃣-web-scraping-link-extractor)
   - [Website Monitoring: Lahore Board Update Monitor](#2️⃣-website-monitoring-lahore-board-update-monitor)
-  - [AI-Powered LinkedIn Content Bot ](#3%EF%B8%8F%E2%80%A3-ai-powered-linkedin-content-bot-featured-)
+  - [AI-Powered LinkedIn Content Bot ](#3️⃣-ai-powered-linkedin-content-bot)
 - [Future Workflows](#-future-workflows)
 - [How to Use](#️-how-to-use)
 - [Key Takeaways](#-key-takeaways)
