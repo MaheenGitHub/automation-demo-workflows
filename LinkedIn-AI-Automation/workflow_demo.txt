@@ -1,0 +1,38 @@
+{
+  "nodes": [
+    {
+      "name": "Schedule Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "parameters": {
+        "rule": {
+          "interval": [
+            { "field": "cronExpression", "expression": "0 16 * * 1,4" }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Fetch News",
+      "type": "n8n-nodes-base.httpRequest",
+      "parameters": {
+        "url": "https://newsapi.org/v2/top-headlines",
+        "method": "GET"
+      }
+    },
+    {
+      "name": "Gemini AI: Content Gen",
+      "type": "n8n-nodes-base.googleGemini",
+      "parameters": {
+        "prompt": "Write a professional LinkedIn post about..."
+      }
+    },
+    {
+      "name": "LinkedIn API: Post",
+      "type": "n8n-nodes-base.httpRequest",
+      "parameters": {
+        "url": "https://api.linkedin.com/v2/ugcPosts",
+        "method": "POST"
+      }
+    }
+  ]
+}
