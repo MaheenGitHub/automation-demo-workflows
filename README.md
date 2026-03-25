@@ -17,7 +17,7 @@ Welcome to my **n8n Automation Workflows Showcase** — a curated collection of 
 - [Current Workflows](#current-workflows)
   - [Web Scraping: Link Extractor](#1️⃣-web-scraping-link-extractor)
   - [Website Monitoring: Lahore Board Update Monitor](#2️⃣-website-monitoring-lahore-board-update-monitor)
-  - [3️⃣ AI-Powered LinkedIn Content Bot (Featured 🚀)](#3%EF%B8%8F%E2%80%A3-ai-powered-linkedin-content-bot-featured-)
+  - [AI-Powered LinkedIn Content Bot ](#3%EF%B8%8F%E2%80%A3-ai-powered-linkedin-content-bot-featured-)
 - [Future Workflows](#-future-workflows)
 - [How to Use](#️-how-to-use)
 - [Key Takeaways](#-key-takeaways)
@@ -97,7 +97,7 @@ It performs **scheduled checks**, detects newly published links, and sends a not
 
 ---
 
-### 3️⃣ AI-Powered LinkedIn Content Bot (Featured 🚀)
+### 3️⃣ AI-Powered LinkedIn Content Bot 
 This advanced workflow automates personal branding by fetching trending tech news and transforming it into engaging LinkedIn posts using AI. It ensures consistency without manual effort.
 
 **Demo Screenshot:**  
